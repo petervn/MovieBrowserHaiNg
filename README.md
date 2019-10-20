@@ -33,11 +33,12 @@ A. Prerequisites
    
    1.6 pod install
 2. Run the React Native MovieBrowserHaiNg App
+
    2.1 cd to MovieBrowserHaiNg
    
    2.2 npm start
    
-   B. Further Help?
+B. Further Help?
    
 3. Raise issue on my repository If you can not run.
 
