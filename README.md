@@ -1,6 +1,6 @@
 # MovieBrowserHaiNg
 
-An React native Movie Browser mobile application.
+<h2 align="center"> An React native Movie Browser mobile application. </h2>
 <p align="center">
   <img
  src="https://github.com/petervn/MovieBrowserHaiNg/blob/master/MovieBrowserHaiNg/src/common/asset/images/Introduction/Screenshot%202019-10-20%20at%2011.23.53%20AM.png" width="300" height="600"  />
