@@ -24,7 +24,7 @@ B. Run MovieBrowserHaiNg application
 
    1.1 https://github.com/petervn/MovieBrowserReactNativeHaiNg.git
    
-   1.2 cd to MovieBrowserHaiNg
+   1.2 cd to MovieBrowserHaiNg ( cd MovieBrowserHaiNg/MovieBrowserHaiNg)
    
    1.3 Delete 'Pods' and 'build' in ios folder (MovieBrowserHaiNg/ios)
    
