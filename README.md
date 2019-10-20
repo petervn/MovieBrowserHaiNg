@@ -63,7 +63,7 @@ C. Further Help?
 
 🚀  Upcoming enhancement :
 
-1. Unit tests are important part of review
+1. Unit tests.
 
 2. Show Trendind movies.
 
