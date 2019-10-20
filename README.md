@@ -1,8 +1,11 @@
 # MovieBrowserHaiNg
 
 An React native Movie Browser mobile application.
- <img src="https://raw.githubusercontent.com/petervn/MovieBrowserHaiNg/master/MovieBrowserHaiNg/src/common/asset/images/Introduction/Screenshot%202019-10-20%20at%2011.23.53%20AM.png?token=ABDMW3FBUJF7VO44FVNZSMK5VPLLS" width="300" height="600" alt="accessibil" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/petervn/MovieBrowserHaiNg/master/MovieBrowserHaiNg/src/common/asset/images/Introduction/Screenshot%202019-10-20%20at%2011.23.53%20AM.png?token=ABDMW3FBUJF7VO44FVNZSMK5VPLLS" width="300" height="600" alt="accessibil" />
  <img src="https://github.com/petervn/MovieBrowserHaiNg/blob/master/MovieBrowserHaiNg/src/common/asset/images/Introduction/Screenshot%202019-10-20%20at%2011.24.41%20AM.png" width="300" height="600" alt="accessibil" />
+ </p>
+
 
 
 🚀 Getting Started
