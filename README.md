@@ -18,6 +18,8 @@ A. Prerequisites
 - Macbook, Node enviroment
 - Install React-native cli https://facebook.github.io/react-native/docs/getting-started
 
+B. Run MovieBrowserHaiNg application
+
 1. Clone and Install
 
    1.1 https://github.com/petervn/MovieBrowserReactNativeHaiNg.git
@@ -37,7 +39,7 @@ A. Prerequisites
    
    2.2 npm start
    
-B. Further Help?
+C. Further Help?
    
 3. Raise issue on my repository If you can not run.
 
