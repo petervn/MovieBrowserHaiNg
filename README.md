@@ -17,7 +17,7 @@ An React native Movie Browser mobile application.
 
 A. Prerequisites
 
-- Make sure you are using Macbook, and having Node
+- Macbook, Node enviroment
 - Install React-native cli https://facebook.github.io/react-native/docs/getting-started
 
 1. Clone and Install
