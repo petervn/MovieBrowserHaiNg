@@ -65,6 +65,6 @@ C. Further Help?
 
 1. Unit tests.
 
-2. Show Trendind movies.
+2. Show trendind movies.
 
 
