@@ -44,3 +44,27 @@ C. Further Help?
 3. Raise issue on my repository If you can not run.
 
 4. Best wishes
+
+🚀  Features :
+
+1.Browse trending and popular movies, and search all movies by title
+
+2. View relevant details of a particular movie including but not limited to title, overview, release year, runtime and cast members
+
+3.View details of specific actor or actress including but not limited to name, bio, birth date and list of movies in which have worked
+
+🚀  Tech stack :
+
+1. React natiev reack hook
+
+2. Redux hook
+
+3. API: The Movie DB API (https://www.themoviedb.org/documentation/api)
+
+🚀  Upcoming enhancement :
+
+1. Unit tests are important part of review
+
+2. Show Trendind movies.
+
+
