@@ -61,7 +61,7 @@ C. Further Help?
 
 3. API: The Movie DB API (https://www.themoviedb.org/documentation/api)
 
-🚀  Upcoming enhancement :
+🚀  Upcoming enhancements :
 
 1. Unit tests.
 
