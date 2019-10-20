@@ -21,6 +21,7 @@ A. Prerequisites
 - Install React-native cli https://facebook.github.io/react-native/docs/getting-started
 
 1. Clone and Install
+
    1.1 https://github.com/petervn/MovieBrowserReactNativeHaiNg.git
    
    1.2 cd to MovieBrowserHaiNg
