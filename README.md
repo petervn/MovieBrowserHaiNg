@@ -1,5 +1,3 @@
-# MovieBrowserHaiNg
-
 <h2 align="center"> An React native Movie Browser mobile application. </h2>
 <p align="center">
   <img
