@@ -1,6 +1,4 @@
-# MovieBrowserHaiNg
-
-An React native Movie Browser mobile application.
+<h2 align="center"> An React native Movie Browser mobile application. </h2>
 <p align="center">
   <img
  src="https://github.com/petervn/MovieBrowserHaiNg/blob/master/MovieBrowserHaiNg/src/common/asset/images/Introduction/Screenshot%202019-10-20%20at%2011.23.53%20AM.png" width="300" height="600"  />
@@ -24,7 +22,7 @@ B. Run MovieBrowserHaiNg application
 
    1.1 https://github.com/petervn/MovieBrowserReactNativeHaiNg.git
    
-   1.2 cd to MovieBrowserHaiNg
+   1.2 cd to MovieBrowserHaiNg ( cd MovieBrowserHaiNg/MovieBrowserHaiNg)
    
    1.3 Delete 'Pods' and 'build' in ios folder (MovieBrowserHaiNg/ios)
    
@@ -44,3 +42,27 @@ C. Further Help?
 3. Raise issue on my repository If you can not run.
 
 4. Best wishes
+
+🚀  Features :
+
+1. Browse trending and popular movies, and search all movies by title
+
+2. View relevant details of a particular movie including but not limited to title, overview, release year, runtime and cast members
+
+3. View details of specific actor or actress including but not limited to name, bio, birth date and list of movies in which have worked
+
+🚀  Tech stack :
+
+1. React natiev reack hook
+
+2. Redux hook
+
+3. API: The Movie DB API (https://www.themoviedb.org/documentation/api)
+
+🚀  Upcoming enhancements :
+
+1. Unit tests.
+
+2. Show trendind movies.
+
+
