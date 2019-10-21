@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchInput Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "paddingBottom": 5,
+      "paddingHorizontal": 5,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#f6f6f6",
+        "borderRadius": 15,
+        "height": 40,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": 10,
+          "marginRight": 10,
+        }
+      }
+    >
+      <Image
+        sizeMode="contain"
+        source={
+          Object {
+            "testUri": "../../../src/common/asset/images/search-icon.png",
+          }
+        }
+        style={
+          Object {
+            "height": 20,
+            "marginRight": 10,
+            "width": 20,
+          }
+        }
+      />
+      <TextInput
+        allowFontScaling={true}
+        autoCorrect={false}
+        keyboardType="default"
+        multiline={false}
+        onChangeText={[Function]}
+        onSubmitEditing={[Function]}
+        placeholder="Search"
+        placeholderTextColor="#a1a1a4"
+        rejectResponderTermination={true}
+        returnKeyType="search"
+        style={
+          Object {
+            "color": "#47525e",
+            "flex": 1,
+            "fontSize": 12,
+            "height": "100%",
+            "width": "100%",
+          }
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>
+</View>
+`;

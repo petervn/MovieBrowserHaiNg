@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar Card Rendering should match to snapshot 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Object {
+      "margin": 5,
+    }
+  }
+>
+  <Image
+    sizeMode="contain"
+    source={
+      Object {
+        "uri": "https://image.tmdb.org/t/p/w500imgage.com/i1.png",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 40,
+        "height": 80,
+        "width": 80,
+      }
+    }
+  />
+  <Text
+    numberOfLines={1}
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    Hai
+  </Text>
+</TouchableOpacity>
+`;

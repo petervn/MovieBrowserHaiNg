@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieItem Rendering should match to snapshot 1`] = `
+<TouchableOpacity
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Object {
+      "width": 140,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "margin": 2,
+        "marginBottom": 5,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "column",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://image.tmdb.org/t/p/w500poster_path",
+          }
+        }
+        style={
+          Object {
+            "height": 180,
+            "marginLeft": 5,
+            "width": 120,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+          }
+        }
+      >
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "fontSize": 17,
+            }
+          }
+        >
+          original_title
+        </Text>
+        <Text>
+          Marvel
+        </Text>
+        <Text>
+          (
+          2019
+          )
+        </Text>
+      </View>
+    </View>
+  </View>
+</TouchableOpacity>
+`;

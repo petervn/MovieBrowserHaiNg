@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Footer Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "marginBottom": 30,
+      "paddingBottom": 50,
+    }
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#00ff00"
+    hidesWhenStopped={true}
+    size="large"
+  />
+  <TouchableOpacity
+    activeOpacity={0.2}
+    onPress={[Function]}
+    style={
+      Object {
+        "backgroundColor": "purple",
+        "borderColor": "#f0f0f0",
+        "borderRadius": 100,
+        "borderWidth": 1,
+        "padding": 10,
+        "width": "50%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      Load more
+    </Text>
+  </TouchableOpacity>
+</View>
+`;

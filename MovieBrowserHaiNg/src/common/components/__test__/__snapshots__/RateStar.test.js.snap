@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RateStar Rendering should match to snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+    }
+  }
+>
+  <Image
+    key="0"
+    source={
+      Object {
+        "testUri": "../../../src/common/asset/images/star.png",
+      }
+    }
+    style={
+      Object {
+        "height": 18,
+        "width": 18,
+      }
+    }
+  />
+  <Image
+    key="1"
+    source={
+      Object {
+        "testUri": "../../../src/common/asset/images/star.png",
+      }
+    }
+    style={
+      Object {
+        "height": 18,
+        "width": 18,
+      }
+    }
+  />
+  <Image
+    key="2"
+    source={
+      Object {
+        "testUri": "../../../src/common/asset/images/star.png",
+      }
+    }
+    style={
+      Object {
+        "height": 18,
+        "width": 18,
+      }
+    }
+  />
+  <Image
+    key="3"
+    source={
+      Object {
+        "testUri": "../../../src/common/asset/images/star.png",
+      }
+    }
+    style={
+      Object {
+        "height": 18,
+        "width": 18,
+      }
+    }
+  />
+</View>
+`;

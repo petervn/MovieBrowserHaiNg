@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Poster Rendering should match to snapshot 1`] = `
+<View>
+  <ImageBackground
+    resizeMode="cover"
+    source={
+      Object {
+        "uri": "https://image.tmdb.org/t/p/w500invalidBackdropPath",
+      }
+    }
+    style={
+      Object {
+        "backgroundColor": "transparent",
+        "height": 300,
+        "width": "100%",
+      }
+    }
+  >
+    <LinearGradient
+      colors={
+        Array [
+          "#000",
+          "rgba(0, 0, 0, 0.14)",
+        ]
+      }
+      end={
+        Object {
+          "x": 0.5,
+          "y": 1,
+        }
+      }
+      start={
+        Object {
+          "x": 0.5,
+          "y": 0,
+        }
+      }
+      style={
+        Object {
+          "flex": 1,
+          "justifyContent": "flex-end",
+          "opacity": 0.8,
+          "padding": 15,
+        }
+      }
+    >
+      <View
+        style={Object {}}
+      >
+        <Text
+          numberOfLines={3}
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          Poster
+        </Text>
+        <RateStar
+          voteAverage={5}
+        />
+      </View>
+    </LinearGradient>
+  </ImageBackground>
+</View>
+`;
