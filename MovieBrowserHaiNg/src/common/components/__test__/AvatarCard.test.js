@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text} from 'react-native';
+import {Text, TouchableOpacity} from 'react-native';
 import {shallow, mount} from 'enzyme';
 import AvatarCard from '../AvatarCard';
 
@@ -19,6 +19,16 @@ describe('Avatar Card', () => {
       const component = mount(<AvatarCard data={data} onPress={() => {}} />);
       const textValue = component.find(Text).text();
       expect(textValue).toEqual('Hai');
+    });
+
+    it('should trigger onPress correctly', () => {
+      const onPress = jest.fn();
+      const component = mount(<AvatarCard data={data} onPress={onPress} />);
+      component
+        .find(TouchableOpacity)
+        .props()
+        .onPress();
+      expect(onPress).toHaveBeenCalled();
     });
   });
 });

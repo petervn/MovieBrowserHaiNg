@@ -5,8 +5,9 @@ import {expect as chaiExpect} from 'chai';
 import SearchInput from '../SearchInput';
 
 describe('SearchInput', () => {
-  const onSubmit = () => {},
-    onSeachTextChange = () => {};
+  const onSubmit = jest.fn(),
+    onSeachTextChange = jest.fn();
+
   describe('Rendering', () => {
     it('should match to snapshot', () => {
       const component = shallow(
@@ -16,6 +17,27 @@ describe('SearchInput', () => {
         />,
       );
       expect(component).toMatchSnapshot();
+    });
+
+    it('should trigger onSeachTextChange correctly', () => {
+      const component = mount(
+        <SearchInput
+          onSubmit={onSubmit}
+          onSeachTextChange={onSeachTextChange}
+        />,
+      );
+      component
+        .find(SearchInput)
+        .props()
+        .onSeachTextChange('search value');
+      expect(onSeachTextChange).toHaveBeenCalled();
+
+      component
+        .find(TextInput)
+        .props()
+        .onChangeText('input value');
+
+      expect(onSeachTextChange).toHaveBeenCalled();
     });
 
     it('should hide clear X icon when value is empty', () => {
