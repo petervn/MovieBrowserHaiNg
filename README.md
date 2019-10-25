@@ -53,7 +53,7 @@ C. Further Help?
 
 🚀  Tech stack :
 
-1. React natiev reack hook
+1. React natiev, react hook
 
 2. Redux hook
 
