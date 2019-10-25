@@ -15,6 +15,7 @@ A. Prerequisites
 
 - Macbook, Node enviroment
 - Install React-native cli https://facebook.github.io/react-native/docs/getting-started
+- Pod tool  ( How to install: sudo gem install cocoapods)
 
 B. Run MovieBrowserHaiNg application
 
